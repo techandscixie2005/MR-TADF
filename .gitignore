@@ -1,0 +1,5 @@
+# Share the project report while keeping the computational workspace local.
+/*
+!/.gitignore
+!/README.md
+!/实验日志.md
